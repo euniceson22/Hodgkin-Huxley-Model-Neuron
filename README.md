@@ -11,7 +11,7 @@ is expelled, voltage undershoots -> refractory period -> returns to rest.
 
 ### Sources Used 
 *An Introductory Course in Computational Neuroscience* by Paul Miller
-NSBV2004- Fundamentals in Computational Neuroscience (at Barnard College)
+<br>NSBV2004- Fundamentals in Computational Neuroscience (at Barnard College)
 
 ### Tools Used 
 MATLAB_2023
